@@ -12,7 +12,8 @@ int main(){
     
     if(num==0){
         c++;
-    }
+    } 
+    
 
     for( m=num; m!=0; m/=10){
         
