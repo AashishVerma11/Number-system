@@ -19,6 +19,7 @@ int main(){
         for(int b=a; b!=0; b/=10){
             int rem = b%10;
             sum = sum + pow(rem,c);
+            
         }
         
         if(sum == i){
